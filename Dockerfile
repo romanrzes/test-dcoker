@@ -1,2 +1,2 @@
 FROM alpine
-CMD ["echo", "Hello!"]
+LABEL app=main
